@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET\\Project\\Api\\HelpDesk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D9D68D-F5B7-41B6-B27D-E69F5A39E0B4}|HelpDesk\\HelpDesk.csproj|d:\\.net\\project\\api\\helpdesk\\helpdesk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1D9D68D-F5B7-41B6-B27D-E69F5A39E0B4}|HelpDesk\\HelpDesk.csproj|solutionrelative:helpdesk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D9D68D-F5B7-41B6-B27D-E69F5A39E0B4}|HelpDesk\\HelpDesk.csproj|d:\\.net\\project\\api\\helpdesk\\helpdesk\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1D9D68D-F5B7-41B6-B27D-E69F5A39E0B4}|HelpDesk\\HelpDesk.csproj|solutionrelative:helpdesk\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D9D68D-F5B7-41B6-B27D-E69F5A39E0B4}|HelpDesk\\HelpDesk.csproj|d:\\.net\\project\\api\\helpdesk\\helpdesk\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1D9D68D-F5B7-41B6-B27D-E69F5A39E0B4}|HelpDesk\\HelpDesk.csproj|solutionrelative:helpdesk\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D9D68D-F5B7-41B6-B27D-E69F5A39E0B4}|HelpDesk\\HelpDesk.csproj|d:\\.net\\project\\api\\helpdesk\\helpdesk\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E1D9D68D-F5B7-41B6-B27D-E69F5A39E0B4}|HelpDesk\\HelpDesk.csproj|solutionrelative:helpdesk\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D9D68D-F5B7-41B6-B27D-E69F5A39E0B4}|HelpDesk\\HelpDesk.csproj|d:\\.net\\project\\api\\helpdesk\\helpdesk\\models\\taskdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1D9D68D-F5B7-41B6-B27D-E69F5A39E0B4}|HelpDesk\\HelpDesk.csproj|solutionrelative:helpdesk\\models\\taskdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D9D68D-F5B7-41B6-B27D-E69F5A39E0B4}|HelpDesk\\HelpDesk.csproj|d:\\.net\\project\\api\\helpdesk\\helpdesk\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1D9D68D-F5B7-41B6-B27D-E69F5A39E0B4}|HelpDesk\\HelpDesk.csproj|solutionrelative:helpdesk\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D9D68D-F5B7-41B6-B27D-E69F5A39E0B4}|HelpDesk\\HelpDesk.csproj|d:\\.net\\project\\api\\helpdesk\\helpdesk\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1D9D68D-F5B7-41B6-B27D-E69F5A39E0B4}|HelpDesk\\HelpDesk.csproj|solutionrelative:helpdesk\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D9D68D-F5B7-41B6-B27D-E69F5A39E0B4}|HelpDesk\\HelpDesk.csproj|d:\\.net\\project\\api\\helpdesk\\helpdesk\\migrations\\20241122094120_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1D9D68D-F5B7-41B6-B27D-E69F5A39E0B4}|HelpDesk\\HelpDesk.csproj|solutionrelative:helpdesk\\migrations\\20241122094120_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET\\Project\\Api\\HelpDesk\\HelpDesk\\Program.cs",
+              "RelativeDocumentMoniker": "HelpDesk\\Program.cs",
+              "ToolTip": "D:\\.NET\\Project\\Api\\HelpDesk\\HelpDesk\\Program.cs",
+              "RelativeToolTip": "HelpDesk\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T05:42:32.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskDetail.cs",
+              "DocumentMoniker": "D:\\.NET\\Project\\Api\\HelpDesk\\HelpDesk\\Models\\TaskDetail.cs",
+              "RelativeDocumentMoniker": "HelpDesk\\Models\\TaskDetail.cs",
+              "ToolTip": "D:\\.NET\\Project\\Api\\HelpDesk\\HelpDesk\\Models\\TaskDetail.cs",
+              "RelativeToolTip": "HelpDesk\\Models\\TaskDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T05:35:52.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "D:\\.NET\\Project\\Api\\HelpDesk\\HelpDesk\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "HelpDesk\\Controllers\\TaskController.cs",
+              "ToolTip": "D:\\.NET\\Project\\Api\\HelpDesk\\HelpDesk\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "HelpDesk\\Controllers\\TaskController.cs",
+              "ViewState": "AQIAAI8AAAAAAAAAAAAAwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T12:27:29.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20241122094120_second.cs",
+              "DocumentMoniker": "D:\\.NET\\Project\\Api\\HelpDesk\\HelpDesk\\Migrations\\20241122094120_second.cs",
+              "RelativeDocumentMoniker": "HelpDesk\\Migrations\\20241122094120_second.cs",
+              "ToolTip": "D:\\.NET\\Project\\Api\\HelpDesk\\HelpDesk\\Migrations\\20241122094120_second.cs",
+              "RelativeToolTip": "HelpDesk\\Migrations\\20241122094120_second.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T08:41:06.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.NET\\Project\\Api\\HelpDesk\\HelpDesk\\appsettings.json",
+              "RelativeDocumentMoniker": "HelpDesk\\appsettings.json",
+              "ToolTip": "D:\\.NET\\Project\\Api\\HelpDesk\\HelpDesk\\appsettings.json",
+              "RelativeToolTip": "HelpDesk\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-30T05:54:55.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\.NET\\Project\\Api\\HelpDesk\\HelpDesk\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "HelpDesk\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\.NET\\Project\\Api\\HelpDesk\\HelpDesk\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "HelpDesk\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T08:47:38.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\.NET\\Project\\Api\\HelpDesk\\HelpDesk\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "HelpDesk\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\.NET\\Project\\Api\\HelpDesk\\HelpDesk\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "HelpDesk\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T12:22:31.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\.NET\\Project\\Api\\HelpDesk\\HelpDesk\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "HelpDesk\\WeatherForecast.cs",
+              "ToolTip": "D:\\.NET\\Project\\Api\\HelpDesk\\HelpDesk\\WeatherForecast.cs",
+              "RelativeToolTip": "HelpDesk\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T12:24:52.62Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
